@@ -2,6 +2,10 @@
 > Please link the relevant Jira issue(s) that this PR closes.
 - Jira Issue 1
 
+# Linked PRs
+> Please link other PRs in other projects that are related to this one.
+- PR 1
+
 # Description
 > Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change.
 
