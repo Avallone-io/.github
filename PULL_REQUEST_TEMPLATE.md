@@ -1,23 +1,27 @@
+# Test environment link
+> Paste the link to the relevant test environment
+- Link
+
 # Jira issue
-> Please link the relevant Jira issue(s) that this PR closes.
+> Link the relevant Jira issue(s) that this PR closes.
 - Jira Issue 1
 
 # Linked PRs
-> Please link other PRs in other projects that are related to this one.
+> Link other PRs in other projects that are related to this one.
 - PR 1
 
 # Description
-> Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change.
+> Include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change.
 
 # Migration status
-> Please select how the migrations will be run.
+> Select how the migrations will be run.
 
 - [ ] This PR does not have any migrations
 - [ ] The migrations will be applied before deployment
 - [ ] The migrations will be applied after  deployment
 
 # Type of change
-> Please select the options that are relevant.
+> Select the options that are relevant.
 
 - [ ] Bug fix (non-breaking change which fixes an issue)
 - [ ] New feature (non-breaking change which adds functionality)
@@ -25,7 +29,7 @@
 - [ ] Refactor (non-breaking change which does not add functionality)
 
 # How Has This Been Tested?
-> Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration.
+> Describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration.
 
 - Test A
 - Test B
